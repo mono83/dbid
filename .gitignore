@@ -1,0 +1,9 @@
+/.idea/
+/dev/
+/target/
+/build/
+*.iml
+/*.ini
+/*.json
+/*.yaml
+/*.sql
